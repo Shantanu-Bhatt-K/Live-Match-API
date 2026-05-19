@@ -1,0 +1,6 @@
+<Solution>
+  <Project Path="LiveMatchApi.Api/LiveMatchApi.Api.csproj" />
+  <Project Path="LiveMatchApi.Core/LiveMatchApi.Core.csproj" />
+  <Project Path="LiveMatchApi.Data/LiveMatchApi.Data.csproj" />
+  <Project Path="LiveMatchApi.Tests/LiveMatchApi.Tests.csproj" />
+</Solution>
